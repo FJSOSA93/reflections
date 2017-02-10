@@ -14,6 +14,9 @@
 	que no sabes si estas seguro que incluira tu proyecto final de igual manera al experimentar con tu codigo 
 	y si falla no estes borre y borre lo que acabas de poner es posible utilizar una rama y si no funciona
 	solo regresa a master e.e 
-
+¿Cómo los diagramas ayudan a visualizar la estructura de las ramas?
+	Ayudan de la manera de visualizar un ambiente fisico para las ramas
+	es decir es menos confuso posicionarlos en una hoja y ver como estan conectados
+	entre ellos, que verlos en la consola.
 
 
