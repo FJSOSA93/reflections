@@ -18,5 +18,8 @@
 	Ayudan de la manera de visualizar un ambiente fisico para las ramas
 	es decir es menos confuso posicionarlos en una hoja y ver como estan conectados
 	entre ellos, que verlos en la consola.
+¿Cuál es el resultado de la fusión de dos ramas juntos? ¿Por qué lo representamos en el diagrama de la forma en que hacemos?
+	El resultado es un solo commit con el codigo de las dos ramas
+	y lo representamos asi por que el commit generado tiene dos papas esta hecho apartir de dos commit
 
 
