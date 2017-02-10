@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you 
+see the bug that was introduced?
+La forma en que vi la diferencia entre los dos archivos
+que me mostraron fue revisando linea por linea que habia 
+cambiado, creo que el control de versiones sirve, porque 
+filtra las diferencias entre cada documento y es mucho mas
+facil encontrar el error o el cambio entre los dos archivos
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Utilizando un software que me facilite un control de versiones
+y archive toda la historia de un documento o un proyecto en concreto
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Una ventaja de crear commit manualmente es que tiene mayor facilidad
+para ti como programador ya que los puedes crear a tu forma de trabajo
+vaya, si en tu codgio quieres crear una funcion de prueba para tu 
+software e implica borrar una ya existente, la facilidad para entenderlo es
+mayor ya que es un segmento de codigo mas, pero una desventaja notable en este 
+sistema manual es que tus commit seran muy grandes y dificil de leer.
+Pienso que git commit te ahorra mucho tiempo al modificar y te da
+un poco de seguridad al hacerlo por que no comprometeras tu codigo
+a un posible fallo. y que se pueda olvidar como funcionaba al principio.
+
+¿Por qué cree que algunos sistemas de control de versiones, como Git, permiten guardar varios archivos en un commit, mientras que otros, como Google Docs, tratan cada archivo por separado?
+Creo que git Almacena los archivos en un commit por que es posible que la modificacion directa
+de un archivo puede indirectamente cambiar otro archivo y en docs, cada archivo
+es independiente.
+
+¿Cómo se pueden utilizar los comandos git log y git diff para ver el historial de los archivos?
+Se utiliza git log para ver la historia de el proyecto cada commit tiene su ID y su descripcion acompañada
+de su fecha de modificacion y el diff funciona para comparar dos versiones 
+
+Como podria usar el control de versiones que se sienta mas seguro de hacer cambios que podrian romper algo?
+Creo que la forma mas factible de usarlo es haciendo un commit cada ves que se cree o corrija un cambio 
+en el funcionamiento del codigo.
+
+Como desea utilizar git 
+Bueno estoy entusiasmado de lo que es capaz esta herramienta
+me siento entusiasmado por ella en cualquier tipo de programacion 
