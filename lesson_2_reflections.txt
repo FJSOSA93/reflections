@@ -1,3 +1,19 @@
 ¿Qué pasa cuando se inicializa un repositorio? ¿Por qué necesita para hacerlo?
 
 	Se crea una historia para todos los archivos en el y se hace para llevar un control de tu proyecto
+¿Cómo es la zona de concentración diferente del directorio de trabajo y el repositorio? ¿Qué valor crees que se ofrece?
+	la zona es para realizar cambios la proyecto y cuando esta listo
+	es momento de hacerle un commit para guardar su progreso y dejar 
+	una marca en la historia en el repositorio
+¿Cómo puede usar el área de ensayo para asegurarse de que tiene una cometen por cambio lógico?
+	para asegurarse que tienes un cambio logico solo basta hacer
+	un git diff --staged y visualizar los cambios que tienes entre el el area de ensayo
+	y el commit 
+¿Cuáles son algunas situaciones en las ramas serían útiles para mantener su historial organizado? ¿Cómo ayudar a las ramas?
+	Creo que las situaciones correctas para utilizar las ramas es al momento de hacer un cambio
+	que no sabes si estas seguro que incluira tu proyecto final de igual manera al experimentar con tu codigo 
+	y si falla no estes borre y borre lo que acabas de poner es posible utilizar una rama y si no funciona
+	solo regresa a master e.e 
+
+
+
