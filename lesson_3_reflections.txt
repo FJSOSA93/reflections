@@ -1,3 +1,5 @@
 ¿Cuándo desea utilizar un repositorio remoto en lugar de mantener todo su trabajo local?
   Supongo cuando se necesita hacer cambios directos dentro de el repositorio para que los
   colaboradores puedan verlo
+ ¿Por qué puede querer sacar siempre los cambios manualmente en lugar de tener Git mantenerse automáticamente actualizados con su repositorio remoto?
+ 	Para asi trabajar con ellos localmente por si no se tiene conexion a internet
