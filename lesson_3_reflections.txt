@@ -3,3 +3,8 @@
   colaboradores puedan verlo
  ¿Por qué puede querer sacar siempre los cambios manualmente en lugar de tener Git mantenerse automáticamente actualizados con su repositorio remoto?
  	Para asi trabajar con ellos localmente por si no se tiene conexion a internet
+ Describir las diferencias entre las  Fork, clones, y las ramas. ¿Cuándo utilizar uno en lugar de otro?
+ 	Basicamente Fork se utiliza cuando quieres copiar un repositorio completo a tu github para haci modificarlo
+ 	el clone se utiliza para clonar desde tu github a tu area local
+ 	y las ramas se crean al crear otra version del software o probar cambios en el programa para si funcionan
+ 	unir las ramas
