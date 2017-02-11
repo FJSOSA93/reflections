@@ -1,0 +1,3 @@
+¿Cuándo desea utilizar un repositorio remoto en lugar de mantener todo su trabajo local?
+  Supongo cuando se necesita hacer cambios directos dentro de el repositorio para que los
+  colaboradores puedan verlo
