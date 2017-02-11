@@ -8,3 +8,5 @@
  	el clone se utiliza para clonar desde tu github a tu area local
  	y las ramas se crean al crear otra version del software o probar cambios en el programa para si funcionan
  	unir las ramas
+ ¿Cuál es el beneficio de tener una copia del último estado conocido de la distancia almacenada localmente?
+ 	Que al tener esa copia puede restaurarse esa version si algo falla o no funciona
