@@ -10,3 +10,8 @@
  	unir las ramas
  ¿Cuál es el beneficio de tener una copia del último estado conocido de la distancia almacenada localmente?
  	Que al tener esa copia puede restaurarse esa version si algo falla o no funciona
+ ¿Cómo te colaborar sin usar Git o GitHub? Lo que sería más fácil, y lo que sería más difícil?
+ 	primeramente para colaborar sin git o github se tendria que estar todos en un mismo sitio fisico
+ 	o almacenamiento en la nube y cda quien tendria que cambiar nombres de pryectos checar el codigo
+ 	y si convence remplazarlo por el nuevo si existen conflictos un programador tendria que unir los archivos
+ 	lo cual se tardaria horas y por ultimo subirlo o pasarlo a los demas para que puedan trabajar
